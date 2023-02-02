@@ -23,7 +23,7 @@ The grading will have the following percentages:
 
 ## Syllabus
 
-The syllabus and the calendar are in their respective pages: [[Syllabus]] and [[_Calendar]].
+The syllabus and the calendar are in their respective pages: [[Syllabus]] and [[Calendar]].
 
 
 ## References

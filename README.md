@@ -1,6 +1,6 @@
 # Introduction to Causal Inference  (A23 Semester)
 
-This repository holds the material for the Introduction to Causal Inference workshop taught on the A23 semester (Jan-Jun 2023) at the [Centro de Investigación en Computación](https://www.cic.ipn.mx/) of the [IPN](https://www.ipn.mx/).
+This repository holds the material for the Introduction to Causal Inference workshop taught on the A23 semester (Feb-Jun 2023) at the [Centro de Investigación en Computación](https://www.cic.ipn.mx/) of the [IPN](https://www.ipn.mx/).
 
 ## Notes
 

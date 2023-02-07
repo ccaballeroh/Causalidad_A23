@@ -1,5 +1,6 @@
 ## Assignment 1
 **Deadline:** before Feb 23, 2023
+
 Required reading: [Chapter 12 of Computational and Inferential Thinking](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)
 1. Open the notebook [Causal_Inference_A23_Ex01_HW](https://github.com/ccaballeroh/Causalidad_A23/blob/main/code/assignments/Causal_Inference_A23_Ex01_HW.ipynb) in Google Colab 
 2. Save a copy on your Drive.
